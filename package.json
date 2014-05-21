@@ -1,6 +1,6 @@
 {
   "name": "grive",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "commandline interface for google drive",
   "main": "index.js",
   "scripts": {
